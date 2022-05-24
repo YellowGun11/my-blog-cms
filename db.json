@@ -1,0 +1,172 @@
+{
+  "success": {
+    "code": 0,
+    "message": "请求成功",
+    "data": {
+      "name": "管理员"
+    }
+  },
+  "fail": {
+    "code": -1,
+    "message": "请求失败：XXX错误！",
+    "data": null
+  },
+  "user": {
+    "code": 0,
+    "message": "请求成功",
+    "data": {
+      "name": "YellowGun",
+      "avtorUrl": "/images/avtor.jpg",
+      "des": "'人之所以伤心，是因为看得不够远。'",
+      "location": "Chengdu",
+      "social": [
+        "https://space.bilibili.com/8403673",
+        "https://space.bilibili.com/8403673",
+        "https://space.bilibili.com/8403673",
+        "https://space.bilibili.com/8403673"
+      ]
+    }
+  },
+  "article": {
+    "code": 0,
+    "message": "请求成功",
+    "data": {
+      "list": [
+        {
+          "id": 1,
+          "title": "我喜欢的足球俱乐部-多特蒙德",
+          "des": "多特蒙德足球俱乐部（BorussiaDortmund）是一家位于德国北莱茵-威斯特法伦（北威）州多特蒙德市的足球俱乐部，绰号“大黄蜂”。二战后崛起的多特蒙德和同处北威州鲁尔工业区（鲁尔区）的沙尔克04之间的比赛因紧邻的地理位置、相同的工人阶层文化而火爆异常，被称为“鲁尔区德比（鲁尔德比、矿区德比）”；球队在国内近些年实力强劲，和拜仁慕尼黑之间的比赛也被不少球迷称作“德国国家德比”。",
+          "content": "这是内容哦",
+          "tag": ["爱好", "足球"],
+          "createTime": "2021-08-03 13:00",
+          "readNum": 0,
+          "status": 1,
+          "imgUrl": "/images/banner.jpg"
+        },
+        {
+          "id": 2,
+          "title": "罪恶王冠",
+          "des": "《罪恶王冠》是Production I.G制作的一部以超能力战斗为题材的原创动画作品，在2011年7月号的《Newtype》月刊杂志上公布了动画的制作企划。动画于2011年10月13日起播出，全22集。",
+          "content": "这是内容哦rgregrererereg",
+          "tag": ["动漫"],
+          "createTime": "2015-02-01 19:12",
+          "readNum": 0,
+          "status": 1,
+          "imgUrl": "/images/banner.jpg"
+        }
+      ],
+      "total": 5
+    }
+  },
+  "photo": {
+    "code": 0,
+    "message": "请求成功",
+    "data": {
+      "list": [
+        {
+          "id": 1,
+          "name": "照片1",
+          "imgUrl": "http://admin.scimea.cn/public/upload/60f91bfd99741.jpeg",
+          "status": 0,
+          "createTime": "2015-02-01"
+        },
+        {
+          "id": 2,
+          "name": "照片2",
+          "imgUrl": "/images/2.jpg",
+          "status": 0,
+          "createTime": "2015-02-01"
+        },
+        {
+          "id": 3,
+          "name": "照片3",
+          "imgUrl": "/images/3.jpg",
+          "status": 0,
+          "createTime": "2015-02-01"
+        },
+        {
+          "id": 4,
+          "name": "照片4",
+          "imgUrl": "/images/4.jpg",
+          "status": 0,
+          "createTime": "2015-02-01"
+        },
+        {
+          "id": 5,
+          "name": "照片5",
+          "imgUrl": "/images/5.jpg",
+          "status": 0,
+          "createTime": "2015-02-01"
+        },
+        {
+          "id": 6,
+          "name": "照片6",
+          "imgUrl": "/images/6.jpg",
+          "status": 0,
+          "createTime": "2015-02-01"
+        },
+        {
+          "id": 7,
+          "name": "照片7",
+          "imgUrl": "/images/7.jpg",
+          "status": 0,
+          "createTime": "2015-02-01"
+        },
+        {
+          "id": 8,
+          "name": "照片8",
+          "imgUrl": "/images/8.jpg",
+          "status": 0,
+          "createTime": "2015-02-01"
+        },
+        {
+          "id": 9,
+          "name": "照片9",
+          "imgUrl": "/images/9.jpg",
+          "status": 0,
+          "createTime": "2015-02-01"
+        }
+      ],
+      "total": 5
+    }
+  },
+  "classify": {
+    "code": 0,
+    "message": "请求成功",
+    "data": {
+      "list": [
+        {
+          "id": 1,
+          "name": "爱好",
+          "status": 1,
+          "createTime": "2015-02-01 19:12"
+        },
+        {
+          "id": 2,
+          "name": "足球",
+          "status": 1,
+          "createTime": "2015-02-01 19:12"
+        },
+        {
+          "id": 3,
+          "name": "编程",
+          "status": 1,
+          "createTime": "2015-02-01 19:12"
+        },
+        {
+          "id": 4,
+          "name": "游戏",
+          "status": 1,
+          "createTime": "2015-02-01 19:12"
+        },
+        {
+          "id": 5,
+          "name": "摄影",
+          "status": 1,
+          "createTime": "2015-02-01 19:12"
+        }
+      ],
+      "total": 5
+    }
+  }
+}
